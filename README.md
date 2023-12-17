@@ -8,7 +8,7 @@ POM.XML
     <groupId>com.github.librepdf</groupId>
     <artifactId>openpdf</artifactId>
     <version>1.3.33</version>
-</dependency>
+</dependency> from Central Maven Repository.
 
 Create a PDF file generator class that uses OpenPDF to create a PDF document.
 Use the PDF file generator class to create PDF documents in your Spring Boot application.
